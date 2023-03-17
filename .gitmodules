@@ -1,3 +1,9 @@
 [submodule "Game-X"]
 	path = Game-X
 	url = https://github.com/Pudgea/Game-X.git
+[submodule "vendors"]
+	path = vendors
+	url = https://github.com/Pudgea/Project.git
+[submodule "Joyful-Pet"]
+	path = Joyful-Pet
+	url = https://github.com/Pudgea/Joyful-Pet.git
