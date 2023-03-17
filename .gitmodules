@@ -5,3 +5,7 @@
 [submodule "Game-X"]
 	path = Game-X
 	url = https://github.com/Pudgea/Game-X.git
+
+[submodule "Project"]
+	path = Project
+	url = https://github.com/Pudgea/Project.git
